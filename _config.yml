@@ -1,7 +1,7 @@
 name: MILLSCHI
 favicon: null
-layout_spectrum: 0.14086586027406156
-typography_spectrum: 0.9820016976445913
+layout_spectrum: 1
+typography_spectrum: 0.89481
 title: Mills Chi
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.027123791398480535
-  lightness: 0.7437969527672976
-  saturation: 0.2762468340806663
-  rhythmicContrast: 0.034423195756971836
+    - '#ffffff'
+    - '#000000'
+    - '#02707d'
+    - '#3e9dd7'
+    - '#c6d2e0'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
