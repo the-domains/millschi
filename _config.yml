@@ -1,0 +1,28 @@
+name: MILLSCHI
+favicon: null
+layout_spectrum: 0.14086586027406156
+typography_spectrum: 0.9820016976445913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.027123791398480535
+  lightness: 0.7437969527672976
+  saturation: 0.2762468340806663
+  rhythmicContrast: 0.034423195756971836
+purpose: []
